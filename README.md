@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-<img  src="https://github-readme-stats.vercel.app/api?username=waleslau&show_icons=true&theme=dark&icon_color=6392DF" style="    border-radius: 5px; filter: drop-shadow(2px 2px 3px dark) !important; height: 150px; margin: 10px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleslau&layout=compact&theme=dark" style="border-radius: 5px; filter: drop-shadow(2px 2px 3px dark) !important; height: 150px; margin-left: 10px;">
+<img  src="https://github-readme-stats.vercel.app/api?username=waleslau&show_icons=true&theme=tokyo&icon_color=6392DF" style="    border-radius: 5px; filter: drop-shadow(2px 2px 3px dark) !important; height: 150px; margin: 10px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleslau&layout=compact&theme=tokyo" style="border-radius: 5px; filter: drop-shadow(2px 2px 3px dark) !important; height: 150px; margin-left: 10px;">
 </div>
 
 <!--
