@@ -2,17 +2,17 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
+- 🥳 [Blog 发布流程优化之 Webhook](https://blog.oopsky.top/post/a4327827/) 
 
-- 🦆 [使用命令重启到BIOS](https://blog.oopsky.top/post/c93c285c/) 
+- 🦆 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
 
-- 🎉 [个人笔记管理方案进化历程](https://blog.oopsky.top/post/28d1aacb/) 
+- 🎉 [使用命令重启到BIOS](https://blog.oopsky.top/post/c93c285c/) 
 
-- 🤠 [使用 KeePass 管理密码](https://blog.oopsky.top/post/ed83a9f6/) 
+- 🤠 [个人笔记管理方案进化历程](https://blog.oopsky.top/post/28d1aacb/) 
 
-- 👺 [在 Linux 上部署服务之 Kafka](https://blog.oopsky.top/post/85d5b333/) 
+- 👺 [使用 KeePass 管理密码](https://blog.oopsky.top/post/ed83a9f6/) 
 
-- 🥰 [在 Linux 上安全的新增附加 IP](https://blog.oopsky.top/post/f6fb5806/) 
+- 🥰 [在 Linux 上部署服务之 Kafka](https://blog.oopsky.top/post/85d5b333/) 
 <!-- BLOG-POST-LIST:END -->
 
 <!--
