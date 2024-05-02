@@ -2,7 +2,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [博客发布流程优化](https://blog.oopsky.top/post/a4327827/) 
+- 🥳 [我的建站历程&amp;博客发布流程优化](https://blog.oopsky.top/post/a4327827/) 
 
 - 🦆 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
 
