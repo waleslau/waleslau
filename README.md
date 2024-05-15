@@ -2,17 +2,17 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [为 Flatpak 应用程序指定 GTK 主题](https://blog.oopsky.top/post/f4f54c22/) 
+- 🥳 [在 Windows CMD 中为某命令设置别名](https://blog.oopsky.top/post/59f07d80/) 
 
-- 🦆 [在 Flatpak 应用程序上应用指定 GTK 主题](https://blog.oopsky.top/post/f8720f38/) 
+- 🦆 [为 Flatpak 应用程序指定 GTK 主题](https://blog.oopsky.top/post/f4f54c22/) 
 
-- 🎉 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
+- 🎉 [在 Flatpak 应用程序上应用指定 GTK 主题](https://blog.oopsky.top/post/f8720f38/) 
 
-- 🤠 [使用命令重启到BIOS](https://blog.oopsky.top/post/c93c285c/) 
+- 🤠 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
 
-- 👺 [个人笔记管理方案进化历程](https://blog.oopsky.top/post/28d1aacb/) 
+- 👺 [使用命令重启到BIOS](https://blog.oopsky.top/post/c93c285c/) 
 
-- 🥰 [使用 KeePass 管理密码](https://blog.oopsky.top/post/ed83a9f6/) 
+- 🥰 [个人笔记管理方案进化历程](https://blog.oopsky.top/post/28d1aacb/) 
 <!-- BLOG-POST-LIST:END -->
 
 <!--
