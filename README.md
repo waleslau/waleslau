@@ -2,17 +2,17 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [在 Windows CMD 中为某命令设置别名](https://blog.oopsky.top/post/59f07d80/) 
+- 🥳 [fstab 延迟挂载网络共享磁盘](https://blog.oopsky.top/post/e145ca24/) 
 
-- 🦆 [为 Flatpak 应用程序指定 GTK 主题](https://blog.oopsky.top/post/f4f54c22/) 
+- 🦆 [虚拟机软件中常用的几种网卡的区别](https://blog.oopsky.top/post/98ac915d/) 
 
-- 🎉 [在 Flatpak 应用程序上应用指定 GTK 主题](https://blog.oopsky.top/post/f8720f38/) 
+- 🎉 [在 Windows CMD 中为某命令设置别名](https://blog.oopsky.top/post/59f07d80/) 
 
-- 🤠 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
+- 🤠 [为 Flatpak 应用程序指定 GTK 主题](https://blog.oopsky.top/post/f4f54c22/) 
 
-- 👺 [使用命令重启到BIOS](https://blog.oopsky.top/post/c93c285c/) 
+- 👺 [在 Flatpak 应用程序上应用指定 GTK 主题](https://blog.oopsky.top/post/f8720f38/) 
 
-- 🥰 [个人笔记管理方案进化历程](https://blog.oopsky.top/post/28d1aacb/) 
+- 🥰 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
 <!-- BLOG-POST-LIST:END -->
 
 <!--
