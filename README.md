@@ -2,13 +2,13 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [虚拟机软件中常用的几种网卡的区别](https://blog.oopsky.top/post/98ac915d/) 
+- 🥳 [将评论系统迁移到 Twikoo 了](https://blog.oopsky.top/post/e33ba8b8/) 
 
-- 🦆 [在 Windows CMD 中为某命令设置别名](https://blog.oopsky.top/post/59f07d80/) 
+- 🦆 [虚拟机软件中常用的几种网卡的区别](https://blog.oopsky.top/post/98ac915d/) 
 
-- 🎉 [为 Flatpak 应用程序指定 GTK 主题](https://blog.oopsky.top/post/f4f54c22/) 
+- 🎉 [在 Windows CMD 中为某命令设置别名](https://blog.oopsky.top/post/59f07d80/) 
 
-- 🤠 [在 Flatpak 应用程序上应用指定 GTK 主题](https://blog.oopsky.top/post/f8720f38/) 
+- 🤠 [为 Flatpak 应用程序指定 GTK 主题](https://blog.oopsky.top/post/f4f54c22/) 
 
 - 👺 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
 
