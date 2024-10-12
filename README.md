@@ -2,17 +2,17 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [在 Linux 上安装配置 Ansible](https://blog.oopsky.top/post/7574f282/) 
+- 🥳 [终于找到IDM的完美平替了](https://blog.oopsky.top/post/cb5432d2/) 
 
-- 🦆 [将评论系统迁移到 Twikoo 了](https://blog.oopsky.top/post/e33ba8b8/) 
+- 🦆 [在 Linux 上安装配置 Ansible](https://blog.oopsky.top/post/7574f282/) 
 
-- 🎉 [虚拟机软件中常用的几种网卡的区别](https://blog.oopsky.top/post/98ac915d/) 
+- 🎉 [将评论系统迁移到 Twikoo 了](https://blog.oopsky.top/post/e33ba8b8/) 
 
-- 🤠 [在 Windows CMD 中为某命令设置别名](https://blog.oopsky.top/post/59f07d80/) 
+- 🤠 [虚拟机软件中常用的几种网卡的区别](https://blog.oopsky.top/post/98ac915d/) 
 
-- 👺 [为 Flatpak 应用程序指定 GTK 主题](https://blog.oopsky.top/post/f4f54c22/) 
+- 👺 [在 Windows CMD 中为某命令设置别名](https://blog.oopsky.top/post/59f07d80/) 
 
-- 🥰 [跨平台浏览器书签同步方案](https://blog.oopsky.top/post/89ee99f4/) 
+- 🥰 [为 Flatpak 应用程序指定 GTK 主题](https://blog.oopsky.top/post/f4f54c22/) 
 <!-- BLOG-POST-LIST:END -->
 
 <!--
