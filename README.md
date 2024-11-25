@@ -2,17 +2,17 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [向linux系统添加磁盘并挂载](https://blog.oopsky.top/post/894ec163/) 
+- 🥳 [发现自己好为人师的时刻](https://blog.oopsky.top/post/14e50b01/) 
 
-- 🦆 [终于找到IDM的完美平替了](https://blog.oopsky.top/post/cb5432d2/) 
+- 🦆 [向linux系统添加磁盘并挂载](https://blog.oopsky.top/post/894ec163/) 
 
-- 🎉 [在 Linux 上安装配置 Ansible](https://blog.oopsky.top/post/7574f282/) 
+- 🎉 [终于找到IDM的完美平替了](https://blog.oopsky.top/post/cb5432d2/) 
 
-- 🤠 [将评论系统迁移到 Twikoo 了](https://blog.oopsky.top/post/e33ba8b8/) 
+- 🤠 [在 Linux 上安装配置 Ansible](https://blog.oopsky.top/post/7574f282/) 
 
-- 👺 [虚拟机软件中常用的几种网卡的区别](https://blog.oopsky.top/post/98ac915d/) 
+- 👺 [将评论系统迁移到 Twikoo 了](https://blog.oopsky.top/post/e33ba8b8/) 
 
-- 🥰 [在 Windows CMD 中为某命令设置别名](https://blog.oopsky.top/post/59f07d80/) 
+- 🥰 [虚拟机软件中常用的几种网卡的区别](https://blog.oopsky.top/post/98ac915d/) 
 <!-- BLOG-POST-LIST:END -->
 
 <!--
