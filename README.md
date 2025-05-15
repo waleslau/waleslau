@@ -2,17 +2,17 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [把压缩包藏到图片里](https://blog.oopsky.top/post/19208f29/) 
+- 🥳 [在拾光坞N3上部署 EasyTier](https://blog.oopsky.top/post/ba8cb8ea/) 
 
-- 🦆 [方便、够用的异地组网工具 EasyTier](https://blog.oopsky.top/post/cdbffbe9/) 
+- 🦆 [把压缩包藏到图片里](https://blog.oopsky.top/post/19208f29/) 
 
-- 🎉 [向linux系统添加磁盘并挂载](https://blog.oopsky.top/post/894ec163/) 
+- 🎉 [方便、够用的异地组网工具 EasyTier](https://blog.oopsky.top/post/cdbffbe9/) 
 
-- 🤠 [终于找到IDM的完美平替了](https://blog.oopsky.top/post/cb5432d2/) 
+- 🤠 [向linux系统添加磁盘并挂载](https://blog.oopsky.top/post/894ec163/) 
 
-- 👺 [在 Linux 上安装配置 Ansible](https://blog.oopsky.top/post/7574f282/) 
+- 👺 [终于找到IDM的完美平替了](https://blog.oopsky.top/post/cb5432d2/) 
 
-- 🥰 [将评论系统迁移到 Twikoo 了](https://blog.oopsky.top/post/e33ba8b8/) 
+- 🥰 [在 Linux 上安装配置 Ansible](https://blog.oopsky.top/post/7574f282/) 
 <!-- BLOG-POST-LIST:END -->
 
 <!--
