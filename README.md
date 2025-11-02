@@ -2,7 +2,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [使用 Aircrack-ng 破解 WI-FI密码](https://blog.oopsky.top/post/6e155fd/) 
+- 🥳 [使用 Aircrack-ng 破解 WI-FI 密码](https://blog.oopsky.top/post/6e155fd/) 
 
 - 🦆 [在拾光坞N3上部署 EasyTier](https://blog.oopsky.top/post/ba8cb8ea/) 
 
