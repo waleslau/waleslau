@@ -2,7 +2,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [零成本实现网站国内外访客分流](https://blog.oopsky.top/post/67ec153b/) 
+- 🥳 [零成本为网站增加国内外访客分流功能](https://blog.oopsky.top/post/67ec153b/) 
 
 - 🦆 [使用 libfaketime 修改容器内的时间](https://blog.oopsky.top/post/5bbfeefd/) 
 
