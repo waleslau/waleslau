@@ -2,7 +2,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- 🥳 [在已存在Windows的系统盘上从零开始安装Arch Linux第二系统](https://blog.oopsky.top/post/c2d2f0f/) 
+- 🥳 [记一次 linux 环境排障：kernel does not support xxxx](https://blog.oopsky.top/post/1451bb48/) 
 
 - 🦆 [零成本为网站增加国内外访客分流功能](https://blog.oopsky.top/post/67ec153b/) 
 
